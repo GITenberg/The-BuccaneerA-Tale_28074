@@ -1,0 +1,31 @@
+_repo: The-BuccaneerA-Tale_28074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, S. C., Mrs.
+    aliases:
+    - Hall, Mrs S. C.
+    - Hall, Mrs. S. C.
+    - Hall, Anna Maria Fielding
+    birthdate: 1800
+    deathdate: 1881
+    gutenberg_agent_id: '6394'
+    url: http://www.gutenberg.org/2009/agents/6394
+description: ''
+gutenberg_issued: '2009-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28074'
+  lccn: '07000547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Buccaneers -- Fiction'
+title: 'The Buccaneer: A Tale'
+url: http://www.gutenberg.org/ebooks/28074
